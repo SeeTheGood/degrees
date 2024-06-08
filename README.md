@@ -18,6 +18,7 @@ Usage
 To run the script, execute it in a Python environment:python degrees.py
 
 File Structure
+
 people.csv: Contains information about people, including their names, birthdates, and movies they have starred in.
 movies.csv: Contains information about movies, including their titles, release years, and actors.
 stars.csv: Contains information about the connections between people and movies, indicating which actors starred in which movies.
